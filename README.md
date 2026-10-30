@@ -29,18 +29,12 @@ Lightweight, zero-UI addon for **Azeroth Survivors** (World of Warcraft 1.12.1 c
 
 ## Installation
 
-### Desktop (Linux / Windows)
 1. Download **[AutoMarkBosses-v1.0.0.zip](https://github.com/dilelu94/AutoMarkBosses/releases/latest)**.
 2. Extract the `AutoMarkBosses` folder into your game's addon directory:
    ```
    benilla-config/AddOns/AutoMarkBosses/
    ```
 3. Ensure `AutoMarkBosses.toc` and `AutoMarkBosses.lua` are inside that folder.
-4. Launch or `/reload` in game.
-
-### In-Game (Browser / Native)
-1. Go to `Options -> AddOns -> Install AddOns`.
-2. Select the downloaded `AutoMarkBosses-v1.0.0.zip`.
 
 ---
 
