@@ -2,10 +2,10 @@
 -- (Skull, Cross, Square, Moon) upon spawning across all maps in Azeroth Survivors (WoW 1.12.1).
 
 local ICONS = {
-    [1] = 8, -- Lair 1: Calavera (Skull)
-    [2] = 7, -- Lair 2: X (Cross)
-    [3] = 6, -- Lair 3: Cuadrado (Square)
-    [4] = 5, -- Lair 4: Luna (Moon)
+    [1] = 8, -- Lair 1: Skull
+    [2] = 7, -- Lair 2: Cross
+    [3] = 6, -- Lair 3: Square
+    [4] = 5, -- Lair 4: Moon
 }
 
 local markedGuardians = {}

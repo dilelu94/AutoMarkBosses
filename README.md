@@ -16,10 +16,10 @@ Lightweight, zero-UI addon for **Azeroth Survivors** (World of Warcraft 1.12.1 c
 
 - **Corner Guardians Only**: Specifically tracks and marks the 4 corner lair elites (`AZS_LAIRS`) across all maps (e.g., Devilsaurs, Thunderers, Ravasaurs in Un'Goro, or the respective guardians in Elwynn, Duskwood, etc.). Scheduled run-timer bosses are left untouched.
 - **Fixed Raid Icon Assignment**:
-  - **Lair 1 (Corner 1)**: Calavera (Skull - 8)
-  - **Lair 2 (Corner 2)**: X (Cross - 7)
-  - **Lair 3 (Corner 3)**: Cuadrado (Square - 6)
-  - **Lair 4 (Corner 4)**: Luna (Moon - 5)
+  - **Lair 1 (Corner 1)**: Skull (8)
+  - **Lair 2 (Corner 2)**: Cross (7)
+  - **Lair 3 (Corner 3)**: Square (6)
+  - **Lair 4 (Corner 4)**: Moon (5)
 - **Duplicate Name Resolution**: Accurately differentiates guardians by world proximity coordinates even when multiple lairs spawn identical creature types.
 - **Continuous Respawn Tracking**: Automatically re-applies the assigned mark when a slain guardian respawns at its lair.
 - **Zero UI Clutter**: Completely silent in the background. No minimap buttons, no timers, no chat spam.
