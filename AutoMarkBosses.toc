@@ -1,0 +1,6 @@
+## Interface: 11200
+## Title: AutoMarkBosses
+## Notes: Silently marks the 4 corner lair guardians with raid target icons (Skull, Cross, Square, Moon).
+## Author: Dilelu
+## Version: 1.0.0
+AutoMarkBosses.lua

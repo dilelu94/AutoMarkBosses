@@ -1,0 +1,13 @@
+# Development / local notes
+notes.md
+
+# Archives and binaries
+*.zip
+*.tar.gz
+
+# Editor and system artifacts
+*.swp
+*.bak
+*~
+.DS_Store
+Thumbs.db
